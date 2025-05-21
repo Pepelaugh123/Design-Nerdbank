@@ -1,0 +1,15 @@
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\bin\Debug\net6.0-windows\NerdbankWinFormsDemo.exe
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\bin\Debug\net6.0-windows\NerdbankWinFormsDemo.deps.json
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\bin\Debug\net6.0-windows\NerdbankWinFormsDemo.runtimeconfig.json
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\bin\Debug\net6.0-windows\NerdbankWinFormsDemo.dll
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\bin\Debug\net6.0-windows\NerdbankWinFormsDemo.pdb
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.AssemblyInfoInputs.cache
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.AssemblyInfo.cs
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.sourcelink.json
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.dll
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\refint\NerdbankWinFormsDemo.dll
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.pdb
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\NerdbankWinFormsDemo.genruntimeconfig.cache
+C:\Users\recepce\Desktop\Design Nerdbank\NerdbankWinFormsDemo\obj\Debug\net6.0-windows\ref\NerdbankWinFormsDemo.dll
